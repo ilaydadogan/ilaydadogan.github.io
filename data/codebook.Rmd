@@ -1,0 +1,18 @@
+---
+output:
+  word_document: default
+  html_document: default
+---
+The data is sourced from a page on [Kaggle](https://www.kaggle.com/babyoda/depression-in-married-couples). It consists of 433 data entries obtained in Istanbul via an online form. Demographic questions and a 21 question multiple choice self-report inventory, referred to as the Beck Depression Inventory (BDI), was used for data collection. 
+
+Each question is scored out of 3, with a maximum score of 63
+
+description of the variables used and the numbers that reflect the categories of demographic questions.
+
+no - Survey number
+gender - Female (1) or Male (2)
+eduation - Primary (1), High school (2), Bachelor (3) or Msc or phD (4)
+working_status - Employed (1) or Unemployed (2)
+marriage_style - Arranged marriage (1) or Flirt marriage/Love (2)
+status_of_having_a_child- Yes/Does have a child (1) or  No/ Does not have a child (2)
+bdi- Beck Depression Inventory, calculated by the sum of B1-B21

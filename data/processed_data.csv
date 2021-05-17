@@ -1,0 +1,434 @@
+"","Gender","Education","Working.Status","Marriage.Style","Status.of.Having.a.Child","BDI_score"
+"1","Male","Msc or phD","Unemployed","Love","No",61
+"2","Male","Bachelor","Unemployed","Love","Yes",12
+"3","Male","Msc or phD","Unemployed","Love","Yes",8
+"4","Male","Msc or phD","Unemployed","Love","Yes",6
+"5","Male","Msc or phD","Unemployed","Arranged","Yes",1
+"6","Male","Bachelor","Unemployed","Love","Yes",2
+"7","Male","Msc or phD","Unemployed","Love","Yes",5
+"8","Male","Msc or phD","Unemployed","Love","Yes",17
+"9","Male","Msc or phD","Unemployed","Love","Yes",1
+"10","Male","Msc or phD","Unemployed","Love","Yes",0
+"11","Male","Msc or phD","Unemployed","Love","Yes",12
+"12","Male","Msc or phD","Unemployed","Love","Yes",2
+"13","Male","Msc or phD","Unemployed","Love","Yes",1
+"14","Male","Msc or phD","Unemployed","Love","Yes",0
+"15","Male","Bachelor","Unemployed","Arranged","Yes",10
+"16","Male","High-school","Unemployed","Arranged","Yes",22
+"17","Male","Bachelor","Unemployed","Arranged","Yes",8
+"18","Male","Msc or phD","Unemployed","Arranged","Yes",20
+"19","Male","High-school","Unemployed","Love","Yes",5
+"20","Male","Bachelor","Unemployed","Love","No",0
+"21","Male","Bachelor","Unemployed","Arranged","Yes",17
+"22","Male","Msc or phD","Unemployed","Arranged","Yes",6
+"23","Male","Bachelor","Unemployed","Arranged","Yes",12
+"24","Male","Msc or phD","Unemployed","Love","Yes",4
+"25","Male","Bachelor","Unemployed","Love","Yes",14
+"26","Male","Msc or phD","Unemployed","Arranged","Yes",8
+"27","Male","High-school","Unemployed","Arranged","Yes",9
+"28","Male","Bachelor","Unemployed","Love","Yes",0
+"29","Male","Bachelor","Unemployed","Love","No",20
+"30","Male","Bachelor","Unemployed","Love","No",3
+"31","Male","Bachelor","Unemployed","Love","No",3
+"32","Male","Bachelor","Unemployed","Love","No",23
+"33","Male","High-school","Unemployed","Arranged","No",27
+"34","Male","Bachelor","Unemployed","Love","No",14
+"35","Male","Bachelor","Unemployed","Love","No",25
+"36","Male","Bachelor","Unemployed","Love","No",7
+"37","Male","Bachelor","Unemployed","Love","No",11
+"38","Male","Bachelor","Unemployed","Love","No",11
+"39","Male","Bachelor","Unemployed","Love","No",3
+"40","Male","Bachelor","Unemployed","Love","No",9
+"41","Male","High-school","Unemployed","Arranged","No",6
+"42","Male","High-school","Unemployed","Love","No",8
+"43","Male","Bachelor","Unemployed","Love","No",5
+"44","Male","Bachelor","Unemployed","Love","No",3
+"45","Male","Bachelor","Unemployed","Love","No",6
+"46","Male","Msc or phD","Unemployed","Love","No",6
+"47","Male","Msc or phD","Unemployed","Love","No",0
+"48","Male","Primary","Unemployed","Love","No",0
+"49","Male","Bachelor","Unemployed","Love","No",0
+"50","Male","Bachelor","Unemployed","Love","No",0
+"51","Male","Bachelor","Unemployed","Love","Yes",27
+"52","Male","High-school","Unemployed","Love","Yes",19
+"53","Male","High-school","Unemployed","Arranged","Yes",26
+"54","Male","Bachelor","Unemployed","Arranged","Yes",18
+"55","Male","Bachelor","Unemployed","Love","Yes",11
+"56","Male","Bachelor","Unemployed","Love","Yes",22
+"57","Male","Bachelor","Unemployed","Arranged","Yes",10
+"58","Male","High-school","Unemployed","Arranged","Yes",13
+"59","Male","High-school","Unemployed","Arranged","Yes",13
+"60","Male","High-school","Unemployed","Love","Yes",12
+"61","Male","Bachelor","Unemployed","Love","Yes",8
+"62","Male","Msc or phD","Unemployed","Love","Yes",8
+"63","Male","High-school","Unemployed","Love","Yes",13
+"64","Male","Bachelor","Unemployed","Arranged","Yes",3
+"65","Male","Primary","Unemployed","Love","Yes",11
+"66","Male","Bachelor","Unemployed","Love","Yes",13
+"67","Male","High-school","Unemployed","Arranged","Yes",9
+"68","Male","High-school","Unemployed","Arranged","Yes",7
+"69","Male","High-school","Unemployed","Arranged","Yes",19
+"70","Male","High-school","Unemployed","Arranged","Yes",5
+"71","Male","Bachelor","Unemployed","Arranged","Yes",4
+"72","Male","Bachelor","Unemployed","Arranged","Yes",9
+"73","Male","High-school","Unemployed","Arranged","Yes",6
+"74","Male","High-school","Unemployed","Love","Yes",3
+"75","Male","High-school","Unemployed","Love","Yes",5
+"76","Male","High-school","Unemployed","Love","Yes",5
+"77","Male","High-school","Unemployed","Love","Yes",7
+"78","Male","High-school","Unemployed","Love","Yes",5
+"79","Male","High-school","Unemployed","Love","Yes",9
+"80","Male","High-school","Unemployed","Love","Yes",4
+"81","Male","Bachelor","Unemployed","Arranged","Yes",1
+"82","Male","High-school","Unemployed","Arranged","Yes",14
+"83","Male","Bachelor","Unemployed","Arranged","Yes",1
+"84","Male","Bachelor","Unemployed","Arranged","Yes",0
+"85","Male","Msc or phD","Unemployed","Arranged","Yes",9
+"86","Male","High-school","Unemployed","Arranged","Yes",2
+"87","Male","Bachelor","Unemployed","Arranged","Yes",0
+"88","Male","Bachelor","Unemployed","Arranged","Yes",0
+"89","Male","Bachelor","Unemployed","Arranged","Yes",0
+"90","Male","High-school","Unemployed","Arranged","Yes",5
+"91","Male","Bachelor","Unemployed","Arranged","Yes",1
+"92","Male","Bachelor","Unemployed","Arranged","Yes",2
+"93","Male","High-school","Unemployed","Love","Yes",3
+"94","Male","Bachelor","Unemployed","Love","Yes",1
+"95","Male","High-school","Unemployed","Love","Yes",0
+"96","Male","High-school","Unemployed","Love","Yes",3
+"97","Male","Bachelor","Unemployed","Love","Yes",1
+"98","Male","Bachelor","Unemployed","Love","No",24
+"99","Male","High-school","Unemployed","Love","No",3
+"100","Male","Bachelor","Unemployed","Love","No",6
+"101","Male","Primary","Unemployed","Love","No",8
+"102","Male","Primary","Unemployed","Love","No",8
+"103","Male","Bachelor","Unemployed","Love","No",11
+"104","Male","Bachelor","Unemployed","Love","No",1
+"105","Male","High-school","Unemployed","Arranged","No",4
+"106","Male","Bachelor","Unemployed","Arranged","No",4
+"107","Male","High-school","Unemployed","Love","No",12
+"108","Male","Bachelor","Unemployed","Love","No",11
+"109","Male","Bachelor","Unemployed","Arranged","No",19
+"110","Male","Bachelor","Unemployed","Love","No",0
+"111","Male","Bachelor","Unemployed","Love","No",0
+"112","Male","High-school","Unemployed","Love","Yes",24
+"113","Male","High-school","Unemployed","Love","Yes",13
+"114","Male","Bachelor","Unemployed","Love","Yes",19
+"115","Male","High-school","Unemployed","Arranged","Yes",24
+"116","Male","Primary","Unemployed","Love","Yes",24
+"117","Male","High-school","Unemployed","Arranged","Yes",14
+"118","Male","High-school","Unemployed","Arranged","Yes",4
+"119","Male","High-school","Unemployed","Arranged","Yes",40
+"120","Male","High-school","Unemployed","Arranged","Yes",21
+"121","Male","Bachelor","Unemployed","Love","Yes",25
+"122","Male","High-school","Unemployed","Love","Yes",22
+"123","Male","Bachelor","Unemployed","Love","Yes",19
+"124","Male","High-school","Unemployed","Love","Yes",13
+"125","Male","Primary","Unemployed","Love","Yes",20
+"126","Male","Primary","Unemployed","Love","Yes",20
+"127","Male","Primary","Unemployed","Love","Yes",23
+"128","Male","High-school","Unemployed","Arranged","Yes",13
+"129","Male","Bachelor","Unemployed","Arranged","Yes",10
+"130","Male","Msc or phD","Unemployed","Arranged","Yes",1
+"131","Male","Bachelor","Unemployed","Love","Yes",0
+"132","Male","Primary","Unemployed","Love","Yes",2
+"133","Male","Primary","Unemployed","Love","Yes",1
+"134","Male","High-school","Unemployed","Love","Yes",4
+"135","Male","High-school","Unemployed","Love","Yes",1
+"136","Male","Primary","Unemployed","Love","Yes",1
+"137","Male","High-school","Unemployed","Love","Yes",6
+"138","Male","Bachelor","Unemployed","Love","No",14
+"139","Male","Bachelor","Unemployed","Arranged","Yes",23
+"140","Male","High-school","Unemployed","Arranged","Yes",5
+"141","Male","Msc or phD","Employed","Love","No",8
+"142","Male","Bachelor","Employed","Love","No",0
+"143","Male","High-school","Employed","Love","Yes",12
+"144","Male","Primary","Employed","Arranged","Yes",11
+"145","Male","Primary","Employed","Love","Yes",8
+"146","Male","Bachelor","Employed","Love","No",17
+"147","Male","High-school","Employed","Love","No",25
+"148","Male","Primary","Employed","Love","No",6
+"149","Male","Bachelor","Employed","Love","No",6
+"150","Male","Primary","Employed","Love","Yes",15
+"151","Male","High-school","Employed","Love","Yes",38
+"152","Female","Msc or phD","Unemployed","Love","No",4
+"153","Female","Msc or phD","Unemployed","Love","Yes",9
+"154","Female","Bachelor","Unemployed","Love","Yes",10
+"155","Female","Msc or phD","Unemployed","Love","Yes",36
+"156","Female","High-school","Unemployed","Arranged","Yes",13
+"157","Female","Msc or phD","Unemployed","Arranged","Yes",12
+"158","Female","Msc or phD","Unemployed","Love","Yes",13
+"159","Female","Msc or phD","Unemployed","Arranged","Yes",6
+"160","Female","Msc or phD","Unemployed","Love","Yes",19
+"161","Female","Msc or phD","Unemployed","Love","Yes",17
+"162","Female","Msc or phD","Unemployed","Love","Yes",12
+"163","Female","Msc or phD","Unemployed","Love","Yes",4
+"164","Female","Msc or phD","Unemployed","Love","Yes",8
+"165","Female","Msc or phD","Unemployed","Love","Yes",8
+"166","Female","Msc or phD","Unemployed","Love","Yes",1
+"167","Female","Bachelor","Unemployed","Love","Yes",12
+"168","Female","Msc or phD","Unemployed","Love","Yes",2
+"169","Female","Msc or phD","Unemployed","Love","Yes",0
+"170","Female","Bachelor","Unemployed","Love","Yes",3
+"171","Female","Msc or phD","Unemployed","Love","Yes",0
+"172","Female","Msc or phD","Unemployed","Love","Yes",0
+"173","Female","Msc or phD","Unemployed","Love","Yes",1
+"174","Female","Bachelor","Unemployed","Love","Yes",2
+"175","Female","Msc or phD","Unemployed","Love","Yes",8
+"176","Female","Bachelor","Unemployed","Love","Yes",3
+"177","Female","Msc or phD","Unemployed","Love","No",26
+"178","Female","Msc or phD","Unemployed","Love","No",4
+"179","Female","Msc or phD","Unemployed","Love","No",4
+"180","Female","Bachelor","Unemployed","Love","No",18
+"181","Female","Msc or phD","Unemployed","Love","No",27
+"182","Female","Msc or phD","Unemployed","Love","Yes",16
+"183","Female","Msc or phD","Unemployed","Love","Yes",15
+"184","Female","Msc or phD","Unemployed","Love","Yes",8
+"185","Female","High-school","Unemployed","Love","Yes",5
+"186","Female","Msc or phD","Unemployed","Love","Yes",4
+"187","Female","Bachelor","Unemployed","Love","Yes",7
+"188","Female","Msc or phD","Unemployed","Love","Yes",2
+"189","Female","Msc or phD","Unemployed","Love","Yes",8
+"190","Female","Bachelor","Unemployed","Love","Yes",11
+"191","Female","Msc or phD","Unemployed","Love","Yes",3
+"192","Female","Msc or phD","Unemployed","Love","No",18
+"193","Female","Msc or phD","Unemployed","Love","No",3
+"194","Female","Msc or phD","Unemployed","Love","No",0
+"195","Female","Msc or phD","Unemployed","Love","No",0
+"196","Female","Msc or phD","Unemployed","Arranged","Yes",25
+"197","Female","Bachelor","Unemployed","Arranged","Yes",2
+"198","Female","Msc or phD","Unemployed","Love","Yes",29
+"199","Female","Msc or phD","Unemployed","Love","Yes",22
+"200","Female","Bachelor","Unemployed","Love","Yes",19
+"201","Female","Msc or phD","Unemployed","Arranged","Yes",7
+"202","Female","Msc or phD","Unemployed","Love","Yes",14
+"203","Female","Bachelor","Unemployed","Love","Yes",9
+"204","Female","High-school","Unemployed","Love","Yes",5
+"205","Female","Bachelor","Unemployed","Love","Yes",5
+"206","Female","Msc or phD","Unemployed","Love","Yes",3
+"207","Female","Bachelor","Unemployed","Love","Yes",2
+"208","Female","Msc or phD","Unemployed","Love","No",2
+"209","Female","Bachelor","Unemployed","Love","No",22
+"210","Female","Primary","Unemployed","Love","No",23
+"211","Female","Bachelor","Unemployed","Love","No",15
+"212","Female","Bachelor","Unemployed","Love","No",15
+"213","Female","Msc or phD","Unemployed","Love","No",11
+"214","Female","Bachelor","Unemployed","Love","No",7
+"215","Female","High-school","Unemployed","Love","No",26
+"216","Female","Bachelor","Unemployed","Love","No",19
+"217","Female","Msc or phD","Unemployed","Love","No",9
+"218","Female","Msc or phD","Unemployed","Arranged","No",1
+"219","Female","High-school","Unemployed","Love","No",2
+"220","Female","Bachelor","Unemployed","Love","No",1
+"221","Female","Bachelor","Unemployed","Love","No",0
+"222","Female","Msc or phD","Unemployed","Love","No",0
+"223","Female","Bachelor","Unemployed","Love","Yes",17
+"224","Female","Bachelor","Unemployed","Love","Yes",8
+"225","Female","Bachelor","Unemployed","Love","Yes",3
+"226","Female","Bachelor","Unemployed","Love","Yes",18
+"227","Female","Bachelor","Unemployed","Love","Yes",33
+"228","Female","Msc or phD","Unemployed","Love","Yes",15
+"229","Female","Bachelor","Unemployed","Love","Yes",11
+"230","Female","Bachelor","Unemployed","Love","Yes",13
+"231","Female","Bachelor","Unemployed","Love","Yes",15
+"232","Female","Bachelor","Unemployed","Arranged","Yes",17
+"233","Female","Bachelor","Unemployed","Arranged","Yes",11
+"234","Female","Bachelor","Unemployed","Arranged","Yes",13
+"235","Female","Bachelor","Unemployed","Arranged","Yes",7
+"236","Female","Bachelor","Unemployed","Love","Yes",13
+"237","Female","Msc or phD","Unemployed","Love","Yes",2
+"238","Female","Bachelor","Unemployed","Arranged","Yes",10
+"239","Female","Bachelor","Unemployed","Love","Yes",3
+"240","Female","High-school","Unemployed","Love","Yes",5
+"241","Female","Bachelor","Unemployed","Arranged","Yes",11
+"242","Female","Bachelor","Unemployed","Love","Yes",22
+"243","Female","Bachelor","Unemployed","Arranged","Yes",4
+"244","Female","High-school","Unemployed","Arranged","Yes",3
+"245","Female","Bachelor","Unemployed","Love","Yes",7
+"246","Female","Bachelor","Unemployed","Love","Yes",5
+"247","Female","Bachelor","Unemployed","Love","Yes",13
+"248","Female","Bachelor","Unemployed","Love","Yes",8
+"249","Female","High-school","Unemployed","Love","Yes",6
+"250","Female","Bachelor","Unemployed","Love","Yes",19
+"251","Female","Bachelor","Unemployed","Love","Yes",0
+"252","Female","Bachelor","Unemployed","Love","Yes",0
+"253","Female","High-school","Unemployed","Love","Yes",2
+"254","Female","Bachelor","Unemployed","Love","No",18
+"255","Female","Bachelor","Unemployed","Love","No",8
+"256","Female","Bachelor","Unemployed","Love","No",7
+"257","Female","Bachelor","Unemployed","Arranged","No",9
+"258","Female","Bachelor","Unemployed","Love","No",19
+"259","Female","Msc or phD","Unemployed","Love","No",11
+"260","Female","Bachelor","Unemployed","Love","No",1
+"261","Female","Bachelor","Unemployed","Love","No",8
+"262","Female","Bachelor","Unemployed","Love","No",22
+"263","Female","Bachelor","Unemployed","Love","No",6
+"264","Female","Bachelor","Unemployed","Love","No",9
+"265","Female","High-school","Unemployed","Love","No",16
+"266","Female","Bachelor","Unemployed","Arranged","No",8
+"267","Female","Msc or phD","Unemployed","Arranged","No",2
+"268","Female","High-school","Unemployed","Love","No",0
+"269","Female","Bachelor","Unemployed","Love","No",0
+"270","Female","Bachelor","Unemployed","Love","No",7
+"271","Female","Bachelor","Unemployed","Love","No",0
+"272","Female","Bachelor","Unemployed","Love","No",7
+"273","Female","Msc or phD","Unemployed","Love","No",0
+"274","Female","High-school","Unemployed","Love","Yes",14
+"275","Female","Primary","Unemployed","Arranged","Yes",10
+"276","Female","Bachelor","Unemployed","Arranged","Yes",10
+"277","Female","Msc or phD","Unemployed","Arranged","Yes",10
+"278","Female","High-school","Unemployed","Arranged","Yes",10
+"279","Female","High-school","Unemployed","Love","Yes",17
+"280","Female","Bachelor","Unemployed","Love","Yes",3
+"281","Female","Bachelor","Unemployed","Arranged","Yes",5
+"282","Female","Bachelor","Unemployed","Arranged","Yes",13
+"283","Female","Bachelor","Unemployed","Arranged","Yes",5
+"284","Female","Bachelor","Unemployed","Love","Yes",4
+"285","Female","Bachelor","Unemployed","Love","Yes",14
+"286","Female","Bachelor","Unemployed","Love","Yes",7
+"287","Female","Bachelor","Unemployed","Love","Yes",7
+"288","Female","Bachelor","Unemployed","Arranged","Yes",6
+"289","Female","Bachelor","Unemployed","Arranged","Yes",2
+"290","Female","High-school","Unemployed","Love","Yes",13
+"291","Female","Bachelor","Unemployed","Love","Yes",5
+"292","Female","Bachelor","Unemployed","Love","Yes",3
+"293","Female","High-school","Unemployed","Love","Yes",2
+"294","Female","High-school","Unemployed","Love","No",21
+"295","Female","Bachelor","Unemployed","Love","No",23
+"296","Female","Msc or phD","Unemployed","Love","No",39
+"297","Female","Bachelor","Unemployed","Love","No",12
+"298","Female","Bachelor","Unemployed","Love","No",6
+"299","Female","Bachelor","Unemployed","Love","No",2
+"300","Female","Bachelor","Unemployed","Love","No",16
+"301","Female","Bachelor","Unemployed","Love","No",0
+"302","Female","Bachelor","Unemployed","Arranged","Yes",31
+"303","Female","Primary","Unemployed","Arranged","Yes",19
+"304","Female","Primary","Unemployed","Love","Yes",13
+"305","Female","Bachelor","Unemployed","Love","Yes",25
+"306","Female","High-school","Unemployed","Love","Yes",4
+"307","Female","Bachelor","Employed","Love","Yes",6
+"308","Female","Bachelor","Employed","Arranged","Yes",10
+"309","Female","Primary","Employed","Arranged","Yes",11
+"310","Female","Bachelor","Employed","Arranged","Yes",9
+"311","Female","Bachelor","Employed","Arranged","No",2
+"312","Female","Bachelor","Employed","Arranged","No",2
+"313","Female","Primary","Employed","Arranged","Yes",26
+"314","Female","Bachelor","Employed","Love","Yes",10
+"315","Female","Bachelor","Employed","Love","Yes",10
+"316","Female","High-school","Employed","Love","Yes",5
+"317","Female","High-school","Employed","Love","Yes",7
+"318","Female","Bachelor","Employed","Arranged","Yes",0
+"319","Female","Bachelor","Employed","Arranged","Yes",0
+"320","Female","Primary","Employed","Love","Yes",5
+"321","Female","Bachelor","Employed","Arranged","No",8
+"322","Female","Bachelor","Employed","Arranged","No",25
+"323","Female","Msc or phD","Employed","Arranged","No",5
+"324","Female","Msc or phD","Employed","Love","No",0
+"325","Female","High-school","Employed","Love","Yes",24
+"326","Female","Bachelor","Employed","Arranged","Yes",25
+"327","Female","High-school","Employed","Love","Yes",6
+"328","Female","Bachelor","Employed","Love","Yes",4
+"329","Female","Bachelor","Employed","Love","Yes",4
+"330","Female","Bachelor","Employed","Love","Yes",13
+"331","Female","Bachelor","Employed","Love","Yes",4
+"332","Female","Bachelor","Employed","Love","Yes",5
+"333","Female","Msc or phD","Employed","Love","Yes",5
+"334","Female","Bachelor","Employed","Love","No",12
+"335","Female","Bachelor","Employed","Love","No",5
+"336","Female","Bachelor","Employed","Love","No",5
+"337","Female","High-school","Employed","Love","No",24
+"338","Female","Bachelor","Employed","Love","Yes",16
+"339","Female","High-school","Employed","Love","Yes",6
+"340","Female","Bachelor","Employed","Love","Yes",6
+"341","Female","Primary","Employed","Arranged","Yes",21
+"342","Female","High-school","Employed","Love","Yes",28
+"343","Female","Msc or phD","Employed","Arranged","Yes",6
+"344","Female","Bachelor","Employed","Love","Yes",12
+"345","Female","High-school","Employed","Love","Yes",19
+"346","Female","High-school","Employed","Love","Yes",12
+"347","Female","High-school","Employed","Love","Yes",14
+"348","Female","Bachelor","Employed","Love","Yes",14
+"349","Female","High-school","Employed","Love","Yes",1
+"350","Female","Bachelor","Employed","Love","Yes",10
+"351","Female","High-school","Employed","Love","Yes",1
+"352","Female","Bachelor","Employed","Love","Yes",4
+"353","Female","High-school","Employed","Love","Yes",12
+"354","Female","Primary","Employed","Arranged","Yes",0
+"355","Female","Primary","Employed","Arranged","Yes",4
+"356","Female","Bachelor","Employed","Love","Yes",13
+"357","Female","High-school","Employed","Love","Yes",0
+"358","Female","Msc or phD","Employed","Love","Yes",0
+"359","Female","Bachelor","Employed","Love","Yes",2
+"360","Female","Primary","Employed","Arranged","No",27
+"361","Female","Bachelor","Employed","Arranged","No",16
+"362","Female","High-school","Employed","Love","No",3
+"363","Female","Bachelor","Employed","Love","No",4
+"364","Female","Bachelor","Employed","Love","No",4
+"365","Female","Msc or phD","Employed","Love","No",1
+"366","Female","High-school","Employed","Arranged","Yes",29
+"367","Female","High-school","Employed","Arranged","Yes",21
+"368","Female","Bachelor","Employed","Love","Yes",28
+"369","Female","Bachelor","Employed","Love","Yes",15
+"370","Female","High-school","Employed","Love","Yes",22
+"371","Female","Bachelor","Employed","Arranged","Yes",22
+"372","Female","High-school","Employed","Arranged","Yes",21
+"373","Female","Bachelor","Employed","Love","Yes",23
+"374","Female","High-school","Employed","Love","Yes",21
+"375","Female","Primary","Employed","Love","Yes",27
+"376","Female","Bachelor","Employed","Love","Yes",7
+"377","Female","Primary","Employed","Love","Yes",12
+"378","Female","Bachelor","Employed","Arranged","Yes",9
+"379","Female","Bachelor","Employed","Arranged","Yes",13
+"380","Female","High-school","Employed","Arranged","Yes",9
+"381","Female","High-school","Employed","Love","Yes",20
+"382","Female","High-school","Employed","Love","Yes",6
+"383","Female","Primary","Employed","Arranged","Yes",7
+"384","Female","High-school","Employed","Arranged","Yes",5
+"385","Female","High-school","Employed","Arranged","Yes",5
+"386","Female","Primary","Employed","Arranged","Yes",0
+"387","Female","Bachelor","Employed","Arranged","Yes",0
+"388","Female","Bachelor","Employed","Love","Yes",6
+"389","Female","Primary","Employed","Love","Yes",2
+"390","Female","High-school","Employed","Love","Yes",0
+"391","Female","High-school","Employed","Love","Yes",5
+"392","Female","Bachelor","Employed","Love","No",61
+"393","Female","Bachelor","Employed","Love","No",13
+"394","Female","High-school","Employed","Love","No",15
+"395","Female","Bachelor","Employed","Love","No",28
+"396","Female","Bachelor","Employed","Love","No",22
+"397","Female","Bachelor","Employed","Love","No",22
+"398","Female","Msc or phD","Employed","Love","No",15
+"399","Female","Bachelor","Employed","Love","No",21
+"400","Female","Bachelor","Employed","Love","No",26
+"401","Female","Bachelor","Employed","Love","No",32
+"402","Female","Bachelor","Employed","Arranged","No",3
+"403","Female","Bachelor","Employed","Love","No",8
+"404","Female","Bachelor","Employed","Love","No",13
+"405","Female","Bachelor","Employed","Love","No",14
+"406","Female","High-school","Employed","Love","No",18
+"407","Female","Bachelor","Employed","Love","No",10
+"408","Female","Bachelor","Employed","Love","No",8
+"409","Female","Bachelor","Employed","Love","No",8
+"410","Female","Bachelor","Employed","Love","No",1
+"411","Female","Bachelor","Employed","Love","No",1
+"412","Female","Bachelor","Employed","Love","No",0
+"413","Female","Bachelor","Employed","Love","No",11
+"414","Female","Primary","Employed","Arranged","Yes",19
+"415","Female","High-school","Employed","Love","Yes",16
+"416","Female","High-school","Employed","Arranged","Yes",34
+"417","Female","Bachelor","Employed","Love","Yes",13
+"418","Female","High-school","Employed","Love","Yes",35
+"419","Female","Bachelor","Employed","Arranged","Yes",8
+"420","Female","Primary","Employed","Arranged","Yes",10
+"421","Female","High-school","Employed","Love","Yes",6
+"422","Female","High-school","Employed","Love","Yes",13
+"423","Female","Bachelor","Employed","Love","Yes",16
+"424","Female","High-school","Employed","Love","Yes",18
+"425","Female","Bachelor","Employed","Love","Yes",4
+"426","Female","Bachelor","Employed","Love","Yes",24
+"427","Female","Bachelor","Employed","Love","Yes",8
+"428","Female","High-school","Employed","Arranged","Yes",7
+"429","Female","High-school","Employed","Arranged","Yes",0
+"430","Female","High-school","Employed","Arranged","Yes",10
+"431","Female","Primary","Employed","Arranged","Yes",12
+"432","Female","Bachelor","Employed","Love","Yes",2
+"433","Female","Primary","Employed","Love","Yes",0
